@@ -4,7 +4,7 @@ This was my first attempt at designing a website with Bootstrap. Bootstrap has s
 
 ## Deployment 
 
-To deploy this application, open the index.html in your browser and navigate to each page from there!
+To deploy this application, open the index.html in your browser and navigate to each page from there! https://trevorsmay.github.io/Bootstrap-Portfolio/
 
 ## Built With
 
