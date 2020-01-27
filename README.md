@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-This was my first attempt at designing a website with Bootstrap. Bootstrap has some wonderful styles but CSS was still necessary to put the final touches on certain sections.
+This was my first attempt at designing a website with Bootstrap. Bootstrap has some wonderful styles but CSS was still necessary to put the final touches on certain sections. To visit my live portfolio go to Trevorsmay.com
 
 ## Deployment 
 
